@@ -1,0 +1,6 @@
+title: Sam Andrus-Henry
+url: https://sgandrushenry-oss.github.io
+baseurl: ""
+permalink: /blog/:title/
+markdown: kramdown
+exclude: [README.md]
