@@ -1,7 +1,7 @@
 # Website visitor statistics
-Status: prepared, not activated. No data is being collected by this integration.
+Status: integration activated on November 1, 2026 using https://samanthaandrushenry.goatcounter.com/count. Dashboard access is private. Account-level preferences and arrival of visits must be confirmed while signed in.
 
-## Activate
+## Activation checklist (site integration complete)
 1. Sam manually registers at https://www.goatcounter.com/signup and verifies the email.
 2. Set the site domain to sgandrushenry-oss.github.io. Keep the statistics dashboard private.
 3. Set timezone to America/Denver. Leave individual pageview collection disabled.
