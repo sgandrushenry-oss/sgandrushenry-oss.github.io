@@ -1,6 +1,6 @@
-/* Set to the verified account endpoint after Sam completes registration. */
+/* Cookie-free aggregate analytics; respects browser privacy preferences. */
 (() => {
-  const endpoint = "";
+  const endpoint = "https://samanthaandrushenry.goatcounter.com/count";
   if (!endpoint || location.hostname !== "sgandrushenry-oss.github.io") return;
   if (navigator.globalPrivacyControl || navigator.doNotTrack === "1") return;
   let referrer = "";
